@@ -1,0 +1,1 @@
+﻿console.log("Hey, I am script 2");
